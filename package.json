@@ -1,0 +1,16 @@
+{
+  "name": "cloudwatch-logs",
+  "version": "1.0.0",
+  "description": "generate MTTR report from cloudwatch alarms where ALARM state changes to OK state",
+  "main": "generateCloudwatchReport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generateCloudwatchReport"
+  },
+  "author": "Tze Wei",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-preset-es2015": "^6.24.0"
+  }
+}
