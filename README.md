@@ -10,7 +10,7 @@ The script basically runs an aws command that provides alarm histories (some sor
 
 ### Usage
 
-0. > insert alarm names in pull-alarms-history.sh
-1. > npm install
-2. > run pull-alarms-history.sh with bash
-3. > sh pull-alarms-history.sh
+0. insert alarm names in pull-alarms-history.sh
+1. npm install
+2. run pull-alarms-history.sh with bash
+3. sh pull-alarms-history.sh
