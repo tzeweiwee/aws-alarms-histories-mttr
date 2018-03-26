@@ -14,3 +14,6 @@ The script basically runs an aws command that provides alarm histories (some sor
 1. npm install
 2. run pull-alarms-history.sh with bash
 3. sh pull-alarms-history.sh
+
+
+To enter alarms you wish to target, you have to specify in `pull-alarms-history.sh` alarmsNames array
